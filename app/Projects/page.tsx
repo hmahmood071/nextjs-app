@@ -2,14 +2,14 @@ import Link from "next/link";
 
 const projects = [
   {
-    title: "E-Commerce Platform",
+    title: "Developer Portfolio",
     description:
-      "A full-featured online store with product listings, cart, checkout, and payment integration using Stripe. Built with Next.js, TypeScript, and PostgreSQL.",
-    tags: ["Next.js", "TypeScript", "Stripe", "PostgreSQL"],
-    emoji: "🛒",
-    color: "from-blue-500 to-indigo-600",
-    github: "#",
-    live: "#",
+      "A modern, responsive portfolio website built with Next.js and Tailwind CSS, showcasing projects and skills.",
+    tags: ["HTML", "CSS"],
+    emoji: "🌐",
+    color: "from-slate-500 to-slate-700",
+    github: "https://github.com/hmahmood071/web-dev-portfolio-1",
+    live: "https://hmahmood071.github.io/web-dev-portfolio-1/",
   },
   {
     title: "Task Management App",
@@ -18,8 +18,8 @@ const projects = [
     tags: ["React", "Node.js", "Socket.io", "MongoDB"],
     emoji: "📋",
     color: "from-emerald-500 to-teal-600",
-    github: "#",
-    live: "#",
+    github: "https://github.com/hmahmood071/web-dev-portfolio-1",
+    live: "https://hmahmood071.github.io/web-dev-portfolio-1/",
   },
   {
     title: "Developer Blog",
@@ -28,8 +28,8 @@ const projects = [
     tags: ["Next.js", "MDX", "Tailwind CSS"],
     emoji: "✍️",
     color: "from-purple-500 to-pink-600",
-    github: "#",
-    live: "#",
+    github: "https://github.com/hmahmood071/web-dev-portfolio-1",
+    live: "https://hmahmood071.github.io/web-dev-portfolio-1/",
   },
   {
     title: "Weather Dashboard",
@@ -38,8 +38,8 @@ const projects = [
     tags: ["React", "REST API", "Chart.js"],
     emoji: "🌤️",
     color: "from-orange-500 to-yellow-500",
-    github: "#",
-    live: "#",
+    github: "https://github.com/hmahmood071/web-dev-portfolio-1",
+    live: "https://hmahmood071.github.io/web-dev-portfolio-1/",
   },
   {
     title: "Chat Application",
@@ -48,8 +48,8 @@ const projects = [
     tags: ["React", "Socket.io", "Express", "Redis"],
     emoji: "💬",
     color: "from-cyan-500 to-blue-500",
-    github: "#",
-    live: "#",
+    github: "https://github.com/hmahmood071/web-dev-portfolio-1",
+    live: "https://hmahmood071.github.io/web-dev-portfolio-1/",
   },
   {
     title: "Portfolio Website",
@@ -58,8 +58,8 @@ const projects = [
     tags: ["Next.js", "Tailwind CSS", "TypeScript"],
     emoji: "🌐",
     color: "from-slate-500 to-slate-700",
-    github: "#",
-    live: "#",
+    github: "https://github.com/hmahmood071/web-dev-portfolio-1",
+    live: "https://hmahmood071.github.io/web-dev-portfolio-1/",
   },
 ];
 
